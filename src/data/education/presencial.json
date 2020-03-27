@@ -1,0 +1,17 @@
+{
+    "slug": "presencial",
+    "title": "Formación académica",
+    "description": "Formación académica, grados de estudio e instituciones.",
+    "items":[
+        {
+            "name": "Universidad Politécnica de Oeste de Sucre",
+            "degree": "Ing. en informatica",
+            "score": "16"
+        },
+        {
+            "name": "Universidad Politécnica de Oeste de Sucre",
+            "degree": "TSU. en informatica",
+            "score": "--"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "data": {
+        "email": "alejandroj36@gmail.com",
+        "username": "alejandroj36",
+        "certificates": [ ],
+        "articles": [ ],
+        "courses": [
+            {
+            "title": "Crea un sitio personal con Gatsby",
+            "progress": "42.0",
+            "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+            },
+            {
+            "title": "Curso de Fundamentos de React",
+            "progress": "0.0",
+            "url": "http://codigofacilito.com/courses/react-intro-gratis"
+            }
+        ],
+        "finished_courses": []
+    },
+    "errors": [ ]
+}

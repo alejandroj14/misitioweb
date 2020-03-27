@@ -1,0 +1,15 @@
+{
+    "slug": "otros",
+    "title": "Otros logros académicos",
+    "description": "Talleres, diplomados y conferencias en las que he participado",
+    "items":[
+        {
+            "name": "CoNCISA",
+            "degree": "2do lugar en el concurso nacional de proyectos socio-tecnológicos."
+        },
+        {
+            "name": "Congreso de investigación UPTOS 2017",
+            "degree": "Certificado por la presentación del trabajo de grado"
+        }
+    ]
+}

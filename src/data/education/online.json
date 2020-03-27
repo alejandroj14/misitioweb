@@ -1,0 +1,43 @@
+{
+    "slug": "online",
+    "title": "Cursos en línea",
+    "description": "Cursos finalizados en plataformas de educación en internet",
+    "items":[
+        {
+            "name": "Curso de Prework: Buenas Prácticas y Entorno de Desarrollo - Platzi",
+            "url": "https://platzi.com/@alej14/",
+            "plataforma": "Platzi"
+        },
+        {
+            "name": "Fundamentos de JavaScript - Platzi",
+            "url": "https://platzi.com/@alej14/",
+            "plataforma": "Platzi"
+        },
+        {
+            "name": "Curso de Frontend Developer",
+            "url": "https://platzi.com/@alej14/",
+            "plataforma": "Platzi"
+        },
+        {
+            "name": "Curso de Asincronismo con JavaScript - Platzi",
+            "url": "https://platzi.com/@alej14/",
+            "plataforma": "Platzi"
+        },
+        {
+            "name": "Curso Práctico de WordPress - Platzi",
+            "url": "https://platzi.com/@alej14/",
+            "plataforma": "Platzi"
+        },
+        {
+            "name": "Curso Profesional de WordPress - Platzi",
+            "url": "https://platzi.com/@alej14/",
+            "plataforma": "Platzi"
+        },
+        {
+            "name": "Curso de Vue.js",
+            "url": "https://www.youtube.com/watch?v=GAQB7Y4X5fM&list=PLPl81lqbj-4J-gfAERGDCdOQtVgRhSvIT",
+            "plataforma": "Youtube"
+        }
+
+    ]
+}
